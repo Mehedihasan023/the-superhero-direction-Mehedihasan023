@@ -1,0 +1,92 @@
+[
+    {
+      "Key": "1kb",
+      "name": "Alan Turing",
+      "birthyYear": 1912,
+      "country": "British",
+      "age": 89,
+      "creator": "of a Turing machine",
+      "income": 19769,
+      "img": "https://websensa.com/wp-content/uploads/2021/09/alan_turningh-1024x1024.png"
+    },
+    {
+      "Key": "2kb",
+      "name": "Philip Don Estridge",
+      "birthYear": 1937,
+      "country": "American",
+      "age": 78,
+      "creator": "of the first IBM Personal Computer",
+      "income": 98532,
+      "img": "https://websensa.com/wp-content/uploads/2021/09/don_estrigeh-1024x1024.png"
+    },
+    {
+      "Key": "3kb",
+      "name": "Niklaus Wirth",
+      "birthYear": 1934,
+      "country": "Swiss",
+      "age": 63,
+      "creator": "of several programming languages",
+      "income": 19832,
+      "img": "https://websensa.com/wp-content/uploads/2021/09/niklaus_wirth.psdd_-1024x1024.png"
+    },
+    {
+      "Key": "4kb",
+      "name": "Dennis Ritchie",
+      "birthYear": 1941,
+      "country": "American",
+      "age": 69,
+      "creator": "co - founded the B programming language",
+      "income": 18763,
+      "img": "https://websensa.com/wp-content/uploads/2021/09/dennis_ritchieg-1024x1024.png"
+    },
+    {
+      "Key": "5kb",
+      "name": "Brian Wilson Kernighan",
+      "birthYear": 1942,
+      "country": "Canadian",
+      "age": 83,
+      "creator": "the co- creator and developer of UNIX",
+      "income": 18732,
+      "img": "https://websensa.com/wp-content/uploads/2021/09/kernighang-1-1024x1024.png"
+    },
+    {
+      "Key": "6kb",
+      "name": "Kenneth Lane Thompson",
+      "birthYear": 1943,
+      "country": "American",
+      "age": 56,
+      "creator": "co - creator of the B programming language",
+      "income": 19873,
+      "img": "https://websensa.com/wp-content/uploads/2021/09/ken_thompsong-1024x1024.png"
+    },
+    {
+      "Key": "7kb",
+      "name": "Bill Gates",
+      "birthYear": 1955,
+      "country": "American",
+      "age": 65,
+      "creator": "QDOS operating system(then MS - DOS), the Microsoft Windows family",
+      "income": 19532,
+      "img": "https://websensa.com/wp-content/uploads/2021/09/bill_gatesd-1024x1024.png"
+    },
+    {
+      "Key": "8kb",
+      "name": "James Gosling",
+      "birthYear": 1955,
+      "country": "canadian",
+      "age": 69,
+      "creator": "prepared the first version of the virtual machine.",
+      "income": 16532,
+      "img": "https://websensa.com/wp-content/uploads/2021/09/goslingg-1024x1024.png"
+    },
+    {
+      "Key": "9kb",
+      "name": "Mark Zuckerberg",
+      "birthYear": 1984,
+      "country": "American",
+      "age": 37,
+      "creator": "create the facebook platform.",
+      "income": 16372,
+      "img": "https://websensa.com/wp-content/uploads/2021/09/mark_zukerberg-1024x1024.png"
+    }
+  ]
