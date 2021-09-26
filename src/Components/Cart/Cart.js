@@ -26,7 +26,6 @@ const Cart = (props) => {
                     </Cartname>
                     )
                 }
-
             </div>
 
         </div>

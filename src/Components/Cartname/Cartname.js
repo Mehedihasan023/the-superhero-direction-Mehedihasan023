@@ -12,7 +12,6 @@ const Cartname = (props) => {
             <div className="cart-name">
                 <h3>{cartinfo.name}</h3>
             </div>
-
         </div>
     );
 };
