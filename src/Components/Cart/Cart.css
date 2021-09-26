@@ -8,12 +8,3 @@
   margin-right: 10px;
   box-shadow: cyan 3px 3px 5px;
 }
-.cart-container h5 {
-  background-color: rgba(8, 179, 31, 0.671);
-  border: 2px solid rgb(7, 17, 17);
-  border-radius: 5px;
-  padding: 10px;
-  margin: 10px;
-  color: antiquewhite;
-  font-size: 25px;
-}
