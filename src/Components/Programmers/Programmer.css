@@ -1,14 +1,15 @@
 .programmers {
   border: 1px solid gray;
   border-radius: 10px;
-  margin: 10px;
-  height: 630px;
+  margin-right: 5px;
+  margin-bottom: 20px;
+  height: 540px;
   box-shadow: 5px 10px #0aec833d;
   background-color: rgb(248, 247, 246);
 }
 .programmers img {
   margin-top: 10px;
   margin-bottom: 20px;
-  width: 250px;
+  width: 230px;
   border-radius: 50%;
 }

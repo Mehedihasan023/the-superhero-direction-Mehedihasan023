@@ -36,7 +36,7 @@ const Club = () => {
                         }
                     </div>
                 </div>
-                <div className="col-md-3 ">
+                <div className="col-md-3">
                     <Cart cart={cart} ></Cart>
                 </div>
             </div>

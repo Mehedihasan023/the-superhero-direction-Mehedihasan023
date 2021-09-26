@@ -3,6 +3,8 @@
   background-color: rgba(177, 155, 117, 0.465);
   border: 1px solid lightcyan;
   border-radius: 5px;
+  padding: 3px;
+  margin-right: 10px;
 
   box-shadow: cyan 3px 3px 5px;
 }

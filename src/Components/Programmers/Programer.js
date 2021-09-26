@@ -7,12 +7,12 @@ const Programers = (props) => {
         <div className="col-md-4 ">
             <div className="programmers">
                 <img src={img} alt="" />
-                <h4>Name :{name}</h4>
-                <h4>Countey:{country}</h4>
-                <h4>Creator : {creator}</h4>
-                <h4>Birth Year : {birthYear}</h4>
-                <h4>Age : {age}</h4>
-                <h4>Income:${income}</h4>
+                <h5>Name :{name}</h5>
+                <h5>Countey:{country}</h5>
+                <h6>Creator : {creator}</h6>
+                <h5>Birth Year : {birthYear}</h5>
+                <h5>Age : {age}</h5>
+                <h5>Income:${income}</h5>
                 <button onClick={() => props.handleAddToCart(props.programmer)} className="bg-success text-white fw-bold p-2 rounded m-3"><span className="text-warning p-1 m-2 "><i className="fas fa-cart-arrow-down"></i></span>Add to Cart</button>
             </div>
         </div>

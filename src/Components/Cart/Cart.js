@@ -14,7 +14,7 @@ const Cart = (props) => {
 
     return (
         <div className="cart-container">
-            <h2>Programmers Added: {cart.length}</h2>
+            <h2><span><i className="fas fa-cart-arrow-down text-success"></i></span> Programmers Added: {cart.length}</h2>
             <h4> Total Cost : $ {total}</h4>
             <h5>Name :
                 <br />
