@@ -4,7 +4,7 @@ const Header = () => {
     return (
         <div className="header-container" >
             <div className="logo">
-                <img src="https://onspondata.s3.ap-south-1.amazonaws.com/Images/events/logo/logo-1580554587.png" alt="" />
+                <img src="https://softwaresangli.files.wordpress.com/2015/06/logo.png" alt="" />
             </div>
 
             <div className="header" >

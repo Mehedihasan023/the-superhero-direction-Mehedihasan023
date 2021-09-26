@@ -4,8 +4,6 @@ import './Cart.css';
 const Cart = (props) => {
 
     const { cart } = props;
-    // const { income, name } = cart;
-
     let total = 0;
     let Name = '';
     for (const programmer of cart) {

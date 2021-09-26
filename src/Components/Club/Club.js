@@ -17,33 +17,19 @@ const Club = () => {
     const handleAddToCart = (programmer) => {
         const newCart = [...cart, programmer];
         setCart(newCart);
+        console.log(programmer.id)
 
     }
 
     return (
-        // <div className="club-container">
 
-        //     <div className="programmer-container">
-        //         {
-        //             programmers.map(programmer => <Programer
-        //                 key={programmer.key}
-        //                 programmer={programmer}
-        //             ></Programer>)
-        //         }
-        //     </div>
-        //     <diV>
-        //         <Cart></Cart>
-        //     </diV>
-
-
-        // </div>
         <div>
             <div className="row">
                 <div className="col-md-9 programmers-container">
                     <div className="row">
                         {
                             programmers.map(programmer => <Programer
-                                Key={programmer.Key}
+                                key={programmer.id}
                                 programmer={programmer}
                                 handleAddToCart={handleAddToCart}
                             ></Programer>)

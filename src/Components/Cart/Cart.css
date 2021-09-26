@@ -1,14 +1,17 @@
 .cart-container {
-  background-color: rgb(238, 232, 232);
-  border: 2px solid rgb(59, 3, 240);
+  margin-top: 30px;
+  background-color: rgba(177, 155, 117, 0.465);
+  border: 1px solid lightcyan;
   border-radius: 5px;
+
+  box-shadow: cyan 3px 3px 5px;
 }
 .cart-container h5 {
   background-color: rgba(8, 179, 31, 0.671);
   border: 2px solid rgb(7, 17, 17);
   border-radius: 5px;
   padding: 10px;
-  margin: 20px;
+  margin: 10px;
   color: antiquewhite;
   font-size: 25px;
 }
